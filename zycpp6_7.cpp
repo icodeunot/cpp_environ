@@ -1,3 +1,6 @@
+// commenting to see if I am Gitting right in Vim and the terminal
+// feb. 4, 2022.
+// vim is hard.
 #include <iostream>
 #include <vector>
 using namespace std;

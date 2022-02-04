@@ -1,3 +1,10 @@
+/****************************************************
+ * Feb. 4th, 2022                                   *
+ *                                                  * 
+ * My first clone from the terminal and edit in Vim.*
+ *                                                  * 
+ * *************************************************/
+
 #include <iostream>
 #include <vector>
 using namespace std;
